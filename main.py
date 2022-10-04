@@ -220,7 +220,7 @@ async def telegraph_upload(bot, update):
         return
     await text.edit_text(
         text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>ᴊᴏɪɴ 😇:-</b> @Movies_hunt_2022",
-        
+        disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
