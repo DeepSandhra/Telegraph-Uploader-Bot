@@ -37,51 +37,36 @@ Bot = Client(
 
 START_TEXT = """**ʜᴇʟʟᴏ {} 😇
 ɪ ᴀᴍ ꜱᴍᴀʟʟ ᴍᴇᴅɪᴀ ᴏʀ ꜰɪʟᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ʟɪɴᴋ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.**
+>> ɪ ᴄᴀɴ ᴄᴏɴᴠᴇʀᴛ ᴜɴᴅᴇʀ 5ᴍʙ ᴘʜᴏᴛᴏ ᴏʀ ᴠɪᴅᴇᴏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋ.
+ᴍᴀᴅᴇ 🖤 ʙʏ [Kᕼᴜsᕼ☠️](https://telegram.me/movi2x)"""
 
->> `ɪ ᴄᴀɴ ᴄᴏɴᴠᴇʀᴛ ᴜɴᴅᴇʀ 5ᴍʙ ᴘʜᴏᴛᴏ ᴏʀ ᴠɪᴅᴇᴏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋ.`
-
-||ᴍᴀᴅᴇ 🖤 ʙʏ [ᴇxᴘᴏʀᴛ_ɢᴀʙʙᴀʀ🥀](https://telegram.me/export_gabbar)||"""
-
-HELP_TEXT = """**ʜᴇʏ, ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ:**
-
+HELP_TEXT = """ʜᴇʏ, ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ:
 ➠ ᴊᴜꜱᴛ ɢɪᴠᴇ ᴍᴇ ᴀ ᴍᴇᴅɪᴀ ᴜɴᴅᴇʀ 5ᴍʙ
 ➠ ᴛʜᴇɴ ɪ ᴡɪʟʟ ᴅᴏᴡɴʟᴏᴀᴅ ɪᴛ
 ➠ ɪ ᴡɪʟʟ ᴛʜᴇɴ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ʟɪɴᴋ
-
-**ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ**
-
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ
 /start - ᴄʜᴇᴄᴋɪɴɢ ʙᴏᴛ ᴏɴʟɪɴᴇ 
 /help - ꜰᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ
 /about - ꜰᴏʀ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ
 /Status - ꜰᴏʀ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇꜱ
+ᴍᴀᴅᴇ 🖤 ʙʏ [Kᕼᴜsᕼ☠️](https://telegram.me/movi2x)"""
 
-||ᴍᴀᴅᴇ 🖤 ʙʏ [ᴇxᴘᴏʀᴛ_ɢᴀʙʙᴀʀ🥀](https://telegram.me/export_gabbar)||"""
-
-ABOUT_TEXT = """--**ᴀʙᴏᴜᴛ ᴍᴇ**--😁
-
-🤖 **ɴᴀᴍᴇ :** [ᴛᴇʟᴇɢʀᴀᴘʜ ᴜᴘʟᴏᴀᴅᴇʀ](https://telegram.me/{})
-
-👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴍʀ.ᴘʀᴏɢᴀᴍᴍᴇʀ](https://t.me/export_gabbar)
-
-🇮🇳 **ᴇᴅɪᴛᴏʀ :** [ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ](https://t.me/export_gabbar)
-
-📢 **ᴄʜᴀɴɴᴀʟ :** [ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://telegram.me/myworldGJ516)
-
-👥 **ɢʀᴏᴜᴘ :** [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://telegram.me/ADVENTURE_FAMILY)
-
-🌐 **ꜱᴏᴜʀᴄᴇ :** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegra.ph/file/9b0455dae14d5639f936d.mp4)
-
-📝 **ʟᴀɴɢᴜᴀɢᴇ :** [ᴘʏᴛʜᴏɴ3](https://python.org)
-
-🧰 **ꜰʀᴀᴍᴇᴡᴏʀᴋ :** [ᴘʏʀᴏɢʀᴀᴍ](https://pyrogram.org)
-
-📡 **ꜱᴇʀᴠᴇʀ :** [ʜᴇʀᴏᴋᴜ](https://heroku.com)"""
+ABOUT_TEXT = """--ᴀʙᴏᴜᴛ ᴍᴇ--😁
+🤖 ɴᴀᴍᴇ : [ᴛᴇʟᴇɢʀᴀᴘʜ ᴜᴘʟᴏᴀᴅᴇʀ](https://telegram.me/{})
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ᴍʀ.ᴘʀᴏɢᴀᴍᴍᴇʀ](https://t.me/movi2x)
+🇮🇳 ᴇᴅɪᴛᴏʀ : [Kᕼᴜsᕼ☠️](https://t.me/movi2x)
+📢 ᴄʜᴀɴɴᴀʟ : [ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://t.me/Movies_DATABASE_2022)
+👥 ɢʀᴏᴜᴘ : [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/Movies_hunt_2022)
+🌐 ꜱᴏᴜʀᴄᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegra.ph/file/9b0455dae14d5639f936d.mp4)
+📝 ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ3](https://python.org)
+🧰 ꜰʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](https://pyrogram.org)
+📡 ꜱᴇʀᴠᴇʀ : [ʜᴇʀᴏᴋᴜ](https://heroku.com)"""
 
 FORCE_SUBSCRIBE_TEXT = "<code>ꜱᴏʀʀʏ ᴅᴇᴀʀ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ꜰᴏʀ ᴜꜱɪɴɢ ᴍᴇ ✨....</code>"
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚡ ᴍᴜꜱɪᴄ ʙᴏᴛ ⚡', url='https://t.me/GJ516_VCPLAYER_bot'),
+        InlineKeyboardButton('💖 ᴍᴏᴠɪᴇꜱ ʀᴇQᴜᴇꜱᴛ ʙᴏᴛ 💖', url='https://t.me/MovieRequestGroup_rebott'),
         ],[
         InlineKeyboardButton('ʜᴇʟᴘ ⚙', callback_data='help'),
         InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about'),
@@ -91,7 +76,7 @@ START_BUTTONS = InlineKeyboardMarkup(
 
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('💖 ᴍᴜꜱɪᴄ ʙᴏᴛ 💖', url='https://t.me/GJ516_VCPLAYER_bot'),
+        InlineKeyboardButton('💖 ᴍᴏᴠɪᴇꜱ ʀᴇQᴜᴇꜱᴛ ʙᴏᴛ 💖', url='https://t.me/MovieRequestGroup_rebott'),
         ],[
         InlineKeyboardButton('ʜᴏᴍᴇ 🏘', callback_data='home'),
         InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about'),
@@ -101,7 +86,7 @@ HELP_BUTTONS = InlineKeyboardMarkup(
 
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🔥 ᴍᴜꜱɪᴄ ʙᴏᴛ 🔥', url='https://t.me/GJ516_VCPLAYER_bot'),
+        InlineKeyboardButton('🔥 ᴍᴜꜱɪᴄ ʙᴏᴛ 🔥', url='https://t.me/MovieRequestGroup_rebott'),
         ],[
         InlineKeyboardButton('ʜᴏᴍᴇ 🏘', callback_data='home'),
         InlineKeyboardButton('ʜᴇʟᴘ ⚙', callback_data='help'),
@@ -204,9 +189,9 @@ async def telegraph_upload(bot, update):
             return
         except Exception as error:
             print(error)
-            await update.reply_text(text="ꜱᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ. ᴄᴏɴᴛᴀᴄᴛ <a href='https://telegram.me/export_gabbar'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>.", disable_web_page_preview=True)
+            await update.reply_text(text="ꜱᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ. ᴄᴏɴᴛᴀᴄᴛ <a href='https://telegram.me/movi2x'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>.", disable_web_page_preview=True)
             return
-    medianame = "./DOWNLOADS/" + "MrProgrammer72/MpTelegraphBot"
+    medianame = "./DOWNLOADS/" + "https://github.com/DeepSandhra/Telegraph-Uploader-Bot"
     text = await update.reply_text(
         text="<code>ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴛᴏ ᴍʏ ꜱᴇʀᴠᴇʀ ...</code>",
         disable_web_page_preview=True
@@ -234,19 +219,18 @@ async def telegraph_upload(bot, update):
         print(error)
         return
     await text.edit_text(
-        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>ᴊᴏɪɴ 😇:-</b> @ADVENTURE_FAMILYS",
-        disable_web_page_preview=True,
+        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>ᴊᴏɪɴ 😇:-</b> @Movies_hunt_2022",
+        
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="ᴏᴘᴇɴ ʟɪɴᴋ 🇮🇳", url=f"https://telegra.ph{response[0]}"),
                     InlineKeyboardButton(text="ꜱʜᴀʀᴇ ʟɪɴᴋ 🇮🇳", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
                 ],
-                [
-                    InlineKeyboardButton(text="⚙ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ɢʀᴏᴜᴘ ⚙", url="https://telegram.me/ADVENTURE_FAMILYS")
+                [   InlineKeyboardButton(text="⚙ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ɢʀᴏᴜᴘ ⚙", url="https://t.me/Movies_hunt_2022"),
                 ],
                 [
-                    InlineKeyboardButton('🤍 ᴍᴜꜱɪᴄ ʙᴏᴛ 🤍', url='https://t.me/GJ516_VCPLAYER_bot')
+                    InlineKeyboardButton('🤍 ᴍᴏᴠɪᴇꜱ ʀᴇQᴜᴇꜱᴛ ʙᴏᴛ') 🤍', url='https://t.me/MovieRequestGroup_rebott'),
                 ]
             ]
         )
