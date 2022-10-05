@@ -230,7 +230,7 @@ async def telegraph_upload(bot, update):
                 [   InlineKeyboardButton(text="⚙ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ɢʀᴏᴜᴘ ⚙", url="https://t.me/Movies_hunt_2022"),
                 ],
                 [
-                    InlineKeyboardButton('🤍 ᴍᴏᴠɪᴇꜱ ʀᴇQᴜᴇꜱᴛ ʙᴏᴛ') 🤍', url='https://t.me/MovieRequestGroup_rebott'),
+                    InlineKeyboardButton(text="🤍 ᴍᴏᴠɪᴇꜱ ʀᴇQᴜᴇꜱᴛ ʙᴏᴛ💖", url=f"https://t.me/MovieRequestGroup_rebott")
                 ]
             ]
         )
